@@ -243,3 +243,13 @@
     }
   }
 }
+
+.publication-item {
+  margin-bottom: 20px;
+}
+
+.video-thumbnail img {
+  width: 150px;  /* Adjust as needed */
+  height: auto;
+  transition: opacity 0.3s;
+}

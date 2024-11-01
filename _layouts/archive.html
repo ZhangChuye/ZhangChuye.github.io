@@ -19,6 +19,29 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
+
+    <div class="publications">
+      {% for pub in site.publications %}
+        <div class="publication-item">
+          <!-- Display publication title with a link -->
+          <h3><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></h3>
+
+          <!-- Excerpt or short description -->
+          <p>{{ pub.excerpt }}</p>
+
+          <!-- Video thumbnail with hover-to-autoplay if a video URL is provided -->
+          {% if pub.thumbnail and pub.video_url %}
+            <a href="{{ pub.url | relative_url }}" class="video-thumbnail">
+              <img src="{{ pub.thumbnail }}" alt="Video Thumbnail" onmouseover="this.src='{{ pub.video_url }}';" onmouseout="this.src='{{ pub.thumbnail }}';">
+            </a>
+          {% endif %}
+
+          <!-- Additional publication details if needed -->
+          <p><a href="{{ pub.paperurl }}">Download Paper</a></p>
+        </div>
+      {% endfor %}
+    </div>
+
     {{ content }}
   </div>
 </div>
