@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://sites.google.com/view/smat-nav
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-04-27
 venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2304.14356'
