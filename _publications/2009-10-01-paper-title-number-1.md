@@ -1,17 +1,32 @@
 ---
-title: "Paper Title Number 1"
+title: "S^2MAT: Simultaneous and Self-Reinforced Mapping and Tracking in Dynamic Urban Scenariosorcing Framework for Simultaneous Mapping and Tracking in Unbounded Urban Environments"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: https://sites.google.com/view/smat-nav
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2023
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://arxiv.org/abs/2304.14356'
+citation: '@misc{fan2023s2matsimultaneousselfreinforcedmapping,
+      title={S$^2$MAT: Simultaneous and Self-Reinforced Mapping and Tracking in Dynamic Urban Scenariosorcing Framework for Simultaneous Mapping and Tracking in Unbounded Urban Environments}, 
+      author={Tingxiang Fan and Bowen Shen and Yinqiang Zhang and Chuye Zhang and Lei Yang and Hua Chen and Wei Zhang and Jia Pan},
+      year={2023},
+      eprint={2304.14356},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2304.14356}, 
+}'
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this work, we propose a solution called S2MAT (Simultaneous and Self-Reinforced Mapping and Tracking) that integrates a frontend dynamic object detection and tracking module with a back-end static mapping module. S2MAT leverages the close and reciprocal interplay between these two modules to efficiently and effectively solve the open problem of simultaneous tracking and mapping in highly dynamic scenarios.
+We conducted long-range experiments in real-world urban scenarios spanning over 7 km, which included challenging obstacles like pedestrians and other traffic agents. The successful navigation provides a comprehensive test of S2MAT’s robustness, scalability, efficiency, quality, and its ability to benefit autonomous robots in wild scenarios without pre-built maps.
 
+### Park tour:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WpUSk9cn77M?si=PJeghs3Rb69u44cY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Campus tour:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6HgnLTjTrhI?si=ijK71BmxENhyOTtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
