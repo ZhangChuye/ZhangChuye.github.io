@@ -12,7 +12,7 @@ redirect_from:
     width: 100%;
     border: none;
     border-collapse: collapse;
-    font-size: 0.95em; /* Adjust size as needed */
+    font-size: 0.9em; /* Adjust size as needed */
   }
   .education-table td {
     padding: 0;
@@ -29,7 +29,11 @@ redirect_from:
 My motivation ...
 
 Education Background
-------
+======
+
+---
+
+<!-- ------ -->
 
 <table class="education-table">
   <tr>
@@ -67,22 +71,22 @@ Education Background
   </tr>
 </table> -->
 
-Publications
-------
-Don't yell at your robots
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <!-- Video on the left -->
-  <div style="flex: 1; max-width: 300px;">
-    <iframe width="100%" height="200" src="https://www.youtube.com/embed/fY_BDzoNCw8?si=_7YRDcIlDXWKYl1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
 
-  <!-- Content on the right -->
-  <div style="flex: 2;">
-    <h3>Paper Title Goes Here</h3>
-    <p><a href="https://arxiv.org/abs/2304.14356" target="_blank">View Paper on arXiv</a></p>
-    <p>This paper presents ... (additional content here)</p>
-  </div>
+Research
+======
+
+---
+
+**Don't Yell at Your Robot: Physical Correction as the Collaborative Interface for Language Model Powered Robots**
+
+[Project Home Page](https://sites.google.com/sas.upenn.edu/dontyellatyourrobot/home)
+
+*We present a novel approach for enhancing human-robot collaboration using physical interactions for real-time error correction of large language model (LLM) parameterized commands.*
+
+
+<div class="video-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/fY_BDzoNCw8?si=Bu4uI_L0UHTrkfWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
