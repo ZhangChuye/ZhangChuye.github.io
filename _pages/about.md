@@ -67,18 +67,24 @@ Education Background
   </tr>
 </table> -->
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Don't yell at your robots
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <!-- Video on the left -->
+  <div style="flex: 1; max-width: 300px;">
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/fY_BDzoNCw8?si=_7YRDcIlDXWKYl1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+  <!-- Content on the right -->
+  <div style="flex: 2;">
+    <h3>Paper Title Goes Here</h3>
+    <p><a href="https://arxiv.org/abs/2304.14356" target="_blank">View Paper on arXiv</a></p>
+    <p>This paper presents ... (additional content here)</p>
+  </div>
+</div>
+
 
 Create content & metadata
 ------
