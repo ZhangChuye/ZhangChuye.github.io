@@ -401,12 +401,26 @@
 }
 
 
+.video-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.video-text-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px; /* Space between video and text */
+  max-width: 100%;
+}
+
 .video-container {
   position: relative;
-  padding-bottom: 28.125%; /* 16:9 aspect ratio */
+  padding-bottom: 28.25%; /* 16:9 aspect ratio */
   height: 0;
   overflow: hidden;
   max-width: 50%;
+  width: 50%; /* Adjust this to control the video width */
 }
 
 .video-container iframe {
@@ -415,4 +429,11 @@
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.video-description {
+  flex: 1;
+  max-width: 50%;
+  flex-direction: column;
+  justify-content: flex-start;
 }
