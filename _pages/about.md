@@ -7,9 +7,65 @@ redirect_from:
   - /about.html
 ---
 
-Chuye Zhang
-======
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<style>
+  .education-table {
+    width: 100%;
+    border: none;
+    border-collapse: collapse;
+    font-size: 0.95em; /* Adjust size as needed */
+  }
+  .education-table td {
+    padding: 0;
+    vertical-align: top;
+    border: none;
+  }
+  .education-table td.right {
+    text-align: right;
+    padding-left: 20px;
+  }
+</style>
+
+
+My motivation ...
+
+Education Background
+------
+
+<table class="education-table">
+  <tr>
+    <td><strong>University of Pennsylvania</strong><br>
+    <em>International Guest Student</em> | GPA: 4.0/4.0</td>
+    <td class="right">Jan 2024 - Jul 2024</td>
+  </tr>
+  <tr>
+    <td><strong></strong><br>
+    <em></em></td>
+    <td class="right"></td>
+  </tr>
+  <tr>
+    <td><strong>Southern University of Science and Technology (SUSTech)</strong><br>
+    <em>Bachelor of Engineering in Robotics Engineering</em> | GPA: 3.87/4.0, Rank: 1/67</td>
+    <td class="right">Sep 2021 - Present</td>
+  </tr>
+</table>
+
+<!-- <table class="education-table">
+  <tr>
+    <td style="padding: 0; vertical-align: top; border: none;"><strong>University of Pennsylvania</strong><br>
+    <em>International Guest Student</em> | GPA: 4.0/4.0</td>
+    <td style="text-align: right; padding: 0; vertical-align: top; border: none;">Jan 2024 - Jul 2024</td>
+  </tr>
+  <tr>
+    <td style="padding: 0; vertical-align: top; border: none;"><strong></strong><br>
+    <em></em></td>
+    <td style="text-align: right; padding: 0; vertical-align: top; border: none;"></td>
+  </tr>
+  <tr>
+    <td style="padding: 0; vertical-align: top; border: none;"><strong>Southern University of Science and Technology (SUSTech)</strong><br>
+    <em>Bachelor of Engineering in Robotics Engineering</em> | GPA: 3.87/4.0, Rank: 1/67</td>
+    <td style="text-align: right; padding: 0; vertical-align: top; border: none;">Sep 2021 - Present</td>
+  </tr>
+</table> -->
 
 Getting started
 ======
