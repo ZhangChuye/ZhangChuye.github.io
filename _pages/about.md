@@ -28,10 +28,23 @@ redirect_from:
 
 My motivation ...
 
-Education Background
-------
 
-<!-- ------ -->
+<table class="education-table">
+  <tr>
+    <td><strong></strong><br>
+    <em></em></td>
+    <td class="right"></td>
+  </tr>
+  <tr>
+    <td><strong></strong><br>
+    <em></em></td>
+    <td class="right"></td>
+  </tr>
+</table>
+
+Education Background
+======
+
 
 <table class="education-table">
   <tr>
@@ -48,6 +61,16 @@ Education Background
     <td><strong>Southern University of Science and Technology (SUSTech)</strong><br>
     <em>Bachelor of Engineering in Robotics Engineering</em> | GPA: 3.87/4.0, Rank: 1/67</td>
     <td class="right">Sep 2021 - Present</td>
+  </tr>
+  <tr>
+    <td><strong></strong><br>
+    <em></em></td>
+    <td class="right"></td>
+  </tr>
+  <tr>
+    <td><strong></strong><br>
+    <em></em></td>
+    <td class="right"></td>
   </tr>
 </table>
 
@@ -72,7 +95,7 @@ Education Background
 
 
 Research
-------
+======
 
 <div class="video-text-wrapper">
     <div class="video-container">
@@ -114,29 +137,45 @@ Research
 </div>
 
 
+<table class="education-table">
+  <tr>
+    <td><strong></strong><br>
+    <em></em></td>
+    <td class="right"></td>
+  </tr>
+  <tr>
+    <td><strong></strong><br>
+    <em></em></td>
+    <td class="right"></td>
+  </tr>
+</table>
+
+
+
 <style>
-  .education-table {
+  .honor-table {
     width: 100%;
     border: none;
     border-collapse: collapse;
     font-size: 1.0em;
     margin-top: 40px;
   }
-  .education-table td {
+  .honor-table td {
     padding: 5px 10px;
     vertical-align: top;
+    border: none;
   }
-  .education-table td.right {
+  .honor-table td.right {
     text-align: right;
     padding-left: 20px;
   }
 </style>
 
 
-Awards and Honors
-------
+Selective Awards
+======
 
-<table class="education-table">
+<table class="honor-table">
   <tr>
     <td>Outstanding Student Scholarship of 2022-2023 Academic Year, SUSTech</td>
     <td class="right">2023</td>
@@ -146,23 +185,11 @@ Awards and Honors
     <td class="right">2022</td>
   </tr>
   <tr>
-    <td>First Prize in Mechanical Product Digital Design Competition</td>
+    <td><strong>First Prize in Mechanical Product Digital Design Competition</strong></td>
     <td class="right">2023</td>
-  </tr>
-  <tr>
-    <td>Global Engineer Talent Research and Innovation Summer School</td>
-    <td class="right">2023</td>
-  </tr>
-  <tr>
-    <td>Shuli College Enthusiastic Participation Award Scholarship</td>
-    <td class="right">2021-2022</td>
   </tr>
   <tr>
     <td>The Advanced Individual in Alma Mater Revisiting Program</td>
-    <td class="right">2022</td>
-  </tr>
-  <tr>
-    <td>First Place in Class Basketball Tournament, SUSTech</td>
     <td class="right">2022</td>
   </tr>
 </table>
