@@ -112,3 +112,57 @@ Research
         <br> <i>Journal of Field Robotics</i> (Under Review) </p>
     </div>
 </div>
+
+
+<style>
+  .education-table {
+    width: 100%;
+    border: none;
+    border-collapse: collapse;
+    font-size: 1.0em;
+    margin-top: 40px;
+  }
+  .education-table td {
+    padding: 5px 10px;
+    vertical-align: top;
+  }
+  .education-table td.right {
+    text-align: right;
+    padding-left: 20px;
+  }
+</style>
+
+
+Awards and Honors
+------
+
+<table class="education-table">
+  <tr>
+    <td>Outstanding Student Scholarship of 2022-2023 Academic Year, SUSTech</td>
+    <td class="right">2023</td>
+  </tr>
+  <tr>
+    <td>Outstanding Student Scholarship of 2021-2022 Academic Year, SUSTech</td>
+    <td class="right">2022</td>
+  </tr>
+  <tr>
+    <td>First Prize in Mechanical Product Digital Design Competition</td>
+    <td class="right">2023</td>
+  </tr>
+  <tr>
+    <td>Global Engineer Talent Research and Innovation Summer School</td>
+    <td class="right">2023</td>
+  </tr>
+  <tr>
+    <td>Shuli College Enthusiastic Participation Award Scholarship</td>
+    <td class="right">2021-2022</td>
+  </tr>
+  <tr>
+    <td>The Advanced Individual in Alma Mater Revisiting Program</td>
+    <td class="right">2022</td>
+  </tr>
+  <tr>
+    <td>First Place in Class Basketball Tournament, SUSTech</td>
+    <td class="right">2022</td>
+  </tr>
+</table>
