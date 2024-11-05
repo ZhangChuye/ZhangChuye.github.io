@@ -100,7 +100,7 @@ Publications
 
 <div class="video-text-wrapper">
     <div class="video-container">
-        <iframe src="https://www.youtube-nocookie.com/embed/fY_BDzoNCw8?si=Bu4uI_L0UHTrkfWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/U9_q6C5YIgo?si=054SCnYaK05N3f2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="video-description">
         <h3>Don’t Yell at Your Robot: Physical Correction as the Collaborative Interface for Language Model Powered Robots</h3>
