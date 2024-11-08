@@ -26,8 +26,15 @@ redirect_from:
   }
 </style>
 
+<table class="education-table">
+  <tr>
+    <td>At this pivotal juncture in artificial general intelligence (AGI), software now processes knowledge at a scale comparable to that of human society. As a robotic engineering major, I envision applying this capability in physical robotic systems to create reliable assistants that enhance lives. 
+    <br> <br>
+    Motivated by the challenges Alzheimer’s disease imposes on families, I believe intelligent robots could support those unable to care for themselves by handling real-world daily tasks—an area where current AI, despite advancements, remains limited in physical ability. To realize this vision, I aim to advance research on robots capable of complex, long-term, human-level tasks. Now, I am applying for a PhD degree to pursue my dream further.</td>
+    <!-- <td class="right">2023</td> -->
+  </tr>
+</table>
 
-My motivation ...
 
 
 <table class="education-table">
@@ -173,7 +180,7 @@ Publications
 </style>
 
 
-Selective Awards
+Selected Awards
 ======
 
 <table class="honor-table">
@@ -215,10 +222,10 @@ Project Highlights
 
 <div class="image-text-wrapper">
     <div class="image-container">
-        <img src="images/collect_sensors.png" alt="A description of the GIF or image">
+        <img src="images/sensor_r.gif" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
-        <h3> Mechanical Design Competition - Under Sea Robot for Sensor Retriving</h3>
+        <h3> Mechanical Product Digital Design Competition - Underwater Robot for Sensor Retrieval</h3>
         <a href="https://project-link.com" target="_blank">[website]</a>
         <!-- <p class="post-description"> UPenn 24 Spring Machine Perception Course Project.</p> -->
         <p class="post-description"> First Prize in Mechanical Product Digital Design Competition</p>
@@ -227,24 +234,36 @@ Project Highlights
 
 <div class="image-text-wrapper">
     <div class="image-container">
+        <img src="images/nav_and_grasp.gif" alt="A description of the GIF or image">
+    </div>
+    <div class="image-description">
+        <h3>ROS Mobile Robot System - Exploring, Mapping, Navigating, and Grasping</h3>
+        <a href="https://project-link.com" target="_blank">[website]</a>
+        <p class="post-description">SUSTech 2023 Fall ROS Course Project.</p>
+        <p class="post-description"> Course Grade: A</p>
+    </div>
+</div>
+
+<div class="image-text-wrapper">
+    <div class="image-container">
         <img src="images/nerf.png" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
-        <h3> Machine Perception - Reproduce Nerf</h3>
+        <h3> Machine Perception - Reproduction of NeRF</h3>
         <a href="https://project-link.com" target="_blank">[website]</a>
-        <p class="post-description"> UPenn 24 Spring Machine Perception Course Project.</p>
+        <p class="post-description"> UPenn 2024 Spring CIS5800 Course Project.</p>
         <p class="post-description"> Course Grade: A+</p>
     </div>
 </div>
 
 <div class="image-text-wrapper">
     <div class="image-container">
-        <img src="images/battleballs.png" alt="A description of the GIF or image">
+        <img src="images/battleballs.gif" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
         <h3>Local Java Game - Battle Balls</h3>
         <a href="https://project-link.com" target="_blank">[website]</a>
-        <p class="post-description">UPenn 24 Spring CIS 1200 Course Project.</p>
+        <p class="post-description">UPenn 2024 Spring CIS1200 Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
     </div>
 </div>
@@ -254,9 +273,9 @@ Project Highlights
         <img src="images/a380.png" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
-        <h3> CAD - Outer Structure A380 Air Plane</h3>
+        <h3> CAD - Outer Structure A380 Airplane</h3>
         <a href="https://project-link.com" target="_blank">[website]</a>
-        <p class="post-description"> SUSTech 22 Summer CAD Course Project.</p>
+        <p class="post-description"> SUSTech 2022 Summer CAD Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
     </div>
 </div>
@@ -266,9 +285,9 @@ Project Highlights
         <img src="images/stm32.png" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
-        <h3> Mechaelectronic System - STM 32 Small Car</h3>
+        <h3> Mechatronic Systems Project - STM32-Based Small Car</h3>
         <a href="https://project-link.com" target="_blank">[website]</a>
-        <p class="post-description"> SUSTech 23 Fall Mechaelectronic System Course Project.</p>
+        <p class="post-description"> SUSTech 2023 Fall Mechatronic System Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
     </div>
 </div>
@@ -278,10 +297,22 @@ Project Highlights
         <img src="images/inverseRL.png" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
-        <h3> Machine Learning - Reproduce and Imporve RL_RVO</h3>
+        <h3> Machine Learning - Reproduction and Enhancement of RL_RVO</h3>
         <a href="https://project-link.com" target="_blank">[website]</a>
-        <p class="post-description"> SUSTech 23 Fall Machine Learning Course Project.</p>
+        <p class="post-description"> SUSTech 2023 Fall Machine Learning Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
+    </div>
+</div>
+
+<div class="image-text-wrapper">
+    <div class="image-container">
+        <img src="images/animate_imdb.gif" alt="A description of the GIF or image">
+    </div>
+    <div class="image-description">
+        <h3>Data Analysis - Processing and Applying Machine Learning to IMDB</h3>
+        <a href="https://project-link.com" target="_blank">[website]</a>
+        <p class="post-description">UPenn 2024 Spring PHYS1100 Course Project.</p>
+        <p class="post-description"> Course Grade: A+</p>
     </div>
 </div>
 
