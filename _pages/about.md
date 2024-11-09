@@ -144,7 +144,7 @@ Publications
     </div>
     <div class="video-description">
         <h3>S2MAT: Simultaneous and Self-Reinforced Mapping and Tracking in Dynamic Urban Scenariosorcing Framework for Simultaneous Mapping and Tracking in Unbounded Urban Environments</h3>
-        <a href="hhttps://sites.google.com/view/smat-nav" target="_blank">[website]</a>
+        <a href="https://sites.google.com/view/smat-nav" target="_blank">[website]</a>
         <p>Tingxiang Fan*, Bowen Shen*, Yinqiang Zhang*, <strong>Chuye Zhang</strong>, Lei Yang, Hua Chen, Wei Zhang†, and Jia Pan† 
         <br> <i>Journal of Field Robotics</i> (Under Review) </p>
     </div>
