@@ -28,13 +28,19 @@ redirect_from:
 
 <table class="education-table">
   <tr>
-    <td>At this pivotal juncture in artificial general intelligence (AGI), software now processes knowledge at a scale comparable to that of human society. As a robotic engineering major, I envision applying this capability in physical robotic systems to create reliable assistants that enhance lives. 
-    <br> <br>
-    Motivated by the challenges Alzheimer’s disease imposes on families, I believe intelligent robots could support those unable to care for themselves by handling real-world daily tasks—an area where current AI, despite advancements, remains limited in physical ability. To realize this vision, I aim to advance research on robots capable of complex, long-term, human-level tasks. Now, I am applying for a PhD degree to pursue my dream further.</td>
-    <!-- <td class="right">2023</td> -->
+    <td>
+    I am a senior Robotics Engineering student at SUSTech advised by Professor Wei Zhang. I joined the <a href = "https://www.wzhanglab.site/" target="_blank" >CLEAR lab</a> at SUSTech in 2022 and will graduate with my Bachelor’s degree in June 2025.
+    </td>
   </tr>
 </table>
 
+<table class="education-table">
+  <tr>
+    <td>
+    Motivated by the challenges Alzheimer’s disease imposes on families, I believe intelligent robots could support those unable to care for themselves by handling real-world daily tasks—an area where current AI, despite advancements, remains limited in physical ability. To realize this vision, I aim to advance research on enhancing robots’ capabilities with AI-driven knowledge to perform complex, long-term, human-level tasks.
+    </td>
+  </tr>
+</table>
 
 
 <table class="education-table">
@@ -286,7 +292,7 @@ Project Highlights
         <img src="images/stm32.gif" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
-        <h3> Mechatronic Systems Project - STM32-Based Small Car</h3>
+        <h3> Mechatronic Systems Project - STM32-Based Trace Following Small Car</h3>
         <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
         <p class="post-description"> SUSTech 2023 Fall Mechatronic System Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
@@ -311,7 +317,7 @@ Project Highlights
         <img src="images/a380.gif" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
-        <h3> CAD - Basic Structure of an Airplane</h3>
+        <h3> CAD - Drawing an Airplane Model</h3>
         <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
         <p class="post-description"> SUSTech 2022 Summer CAD Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
@@ -323,7 +329,7 @@ Project Highlights
         <img src="images/jucier.png" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
-        <h3> Mechanical Workshop - Design and Make a jucier</h3>
+        <h3> Mechanical Workshop - Design and Make a Juicer</h3>
         <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
         <p class="post-description"> SUSTech 2022 Summer Mechanical Workshop Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
