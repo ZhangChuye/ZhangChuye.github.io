@@ -226,9 +226,21 @@ Project Highlights
     </div>
     <div class="image-description">
         <h3> Mechanical Product Digital Design Competition - Underwater Robot for Sensor Retrieval</h3>
-        <a href="https://project-link.com" target="_blank">[website]</a>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
         <!-- <p class="post-description"> UPenn 24 Spring Machine Perception Course Project.</p> -->
         <p class="post-description"> First Prize in Mechanical Product Digital Design Competition</p>
+    </div>
+</div>
+
+<div class="image-text-wrapper">
+    <div class="image-container">
+        <img src="images/ml.gif" alt="A description of the GIF or image">
+    </div>
+    <div class="image-description">
+        <h3> Machine Learning - Reproduction and Enhancement of RL_RVO</h3>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
+        <p class="post-description"> SUSTech 2023 Fall Machine Learning Course Project.</p>
+        <p class="post-description"> Course Grade: A</p>
     </div>
 </div>
 
@@ -238,7 +250,7 @@ Project Highlights
     </div>
     <div class="image-description">
         <h3>ROS Mobile Robot System - Exploring, Mapping, Navigating, and Grasping</h3>
-        <a href="https://project-link.com" target="_blank">[website]</a>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
         <p class="post-description">SUSTech 2023 Fall ROS Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
     </div>
@@ -250,7 +262,7 @@ Project Highlights
     </div>
     <div class="image-description">
         <h3> Machine Perception - Reproduction of NeRF</h3>
-        <a href="https://project-link.com" target="_blank">[website]</a>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
         <p class="post-description"> UPenn 2024 Spring CIS5800 Course Project.</p>
         <p class="post-description"> Course Grade: A+</p>
     </div>
@@ -262,47 +274,25 @@ Project Highlights
     </div>
     <div class="image-description">
         <h3>Local Java Game - Battle Balls</h3>
-        <a href="https://project-link.com" target="_blank">[website]</a>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
         <p class="post-description">UPenn 2024 Spring CIS1200 Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
     </div>
 </div>
 
-<div class="image-text-wrapper">
-    <div class="image-container">
-        <img src="images/a380.png" alt="A description of the GIF or image">
-    </div>
-    <div class="image-description">
-        <h3> CAD - Outer Structure A380 Airplane</h3>
-        <a href="https://project-link.com" target="_blank">[website]</a>
-        <p class="post-description"> SUSTech 2022 Summer CAD Course Project.</p>
-        <p class="post-description"> Course Grade: A</p>
-    </div>
-</div>
 
 <div class="image-text-wrapper">
     <div class="image-container">
-        <img src="images/stm32.png" alt="A description of the GIF or image">
+        <img src="images/stm32.gif" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
         <h3> Mechatronic Systems Project - STM32-Based Small Car</h3>
-        <a href="https://project-link.com" target="_blank">[website]</a>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
         <p class="post-description"> SUSTech 2023 Fall Mechatronic System Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
     </div>
 </div>
 
-<div class="image-text-wrapper">
-    <div class="image-container">
-        <img src="images/inverseRL.png" alt="A description of the GIF or image">
-    </div>
-    <div class="image-description">
-        <h3> Machine Learning - Reproduction and Enhancement of RL_RVO</h3>
-        <a href="https://project-link.com" target="_blank">[website]</a>
-        <p class="post-description"> SUSTech 2023 Fall Machine Learning Course Project.</p>
-        <p class="post-description"> Course Grade: A</p>
-    </div>
-</div>
 
 <div class="image-text-wrapper">
     <div class="image-container">
@@ -310,9 +300,33 @@ Project Highlights
     </div>
     <div class="image-description">
         <h3>Data Analysis - Processing and Applying Machine Learning to IMDB</h3>
-        <a href="https://project-link.com" target="_blank">[website]</a>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
         <p class="post-description">UPenn 2024 Spring PHYS1100 Course Project.</p>
         <p class="post-description"> Course Grade: A+</p>
+    </div>
+</div>
+
+<div class="image-text-wrapper">
+    <div class="image-container">
+        <img src="images/a380.gif" alt="A description of the GIF or image">
+    </div>
+    <div class="image-description">
+        <h3> CAD - Basic Structure of an Airplane</h3>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
+        <p class="post-description"> SUSTech 2022 Summer CAD Course Project.</p>
+        <p class="post-description"> Course Grade: A</p>
+    </div>
+</div>
+
+<div class="image-text-wrapper">
+    <div class="image-container">
+        <img src="images/jucier.png" alt="A description of the GIF or image">
+    </div>
+    <div class="image-description">
+        <h3> Mechanical Workshop - Design and Make a jucier</h3>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
+        <p class="post-description"> SUSTech 2022 Summer Mechanical Workshop Course Project.</p>
+        <p class="post-description"> Course Grade: A</p>
     </div>
 </div>
 
