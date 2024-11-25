@@ -329,7 +329,7 @@ Project Highlights
         <img src="images/jucier.png" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
-        <h3> Mechanical Workshop - Design and Make a Juicer</h3>
+        <h3> Mechanical Workshop - Designing and Making a Juicer</h3>
         <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
         <p class="post-description"> SUSTech 2022 Summer Mechanical Workshop Course Project.</p>
         <p class="post-description"> Course Grade: A</p>
