@@ -63,7 +63,7 @@ Education Background
 <table class="education-table">
   <tr>
     <td><strong>University of Pennsylvania</strong><br>
-    <em>International Guest Student</em> | GPA: 4.0/4.0</td>
+    <em>International Guest Student</em> | GPA: <strong>4.0/4.0</strong></td>
     <td class="right">Jan 2024 - Jul 2024</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ Education Background
   </tr>
   <tr>
     <td><strong>Southern University of Science and Technology (SUSTech)</strong><br>
-    <em>Bachelor of Engineering in Robotics Engineering</em> | GPA: 3.87/4.0, Rank: 1/67</td>
+    <em>Bachelor of Engineering in Robotics Engineering</em> | GPA: <strong>3.87/4.0</strong>, Rank: <strong>1/67</strong></td>
     <td class="right">Sep 2021 - Present</td>
   </tr>
   <tr>
@@ -199,7 +199,7 @@ Selected Awards
     <td class="right">2022</td>
   </tr>
   <tr>
-    <td><i>First Prize in Mechanical Product Digital Design Competition</i></td>
+    <td><i><strong>First Prize</strong> in Mechanical Product Digital Design Competition</i></td>
     <td class="right">2023</td>
   </tr>
   <tr>
