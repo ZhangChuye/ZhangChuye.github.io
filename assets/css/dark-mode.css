@@ -71,6 +71,7 @@ table {
 
 .greedy-nav {
   background-color: var(--masthead-background);
+  position: relative;
 }
 
 .greedy-nav a {
@@ -98,4 +99,35 @@ table {
 
 .greedy-nav .hidden-links a {
   color: var(--masthead-text);
+}
+
+/* Theme toggle button styles */
+.theme-toggle {
+  background: transparent;
+  border: none;
+  color: var(--masthead-text);
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 0.5em;
+  margin-left: 1em;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 2em;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.theme-toggle:hover {
+  opacity: 0.8;
+}
+
+/* Adjust masthead layout */
+.greedy-nav {
+  position: relative;
+}
+
+/* Ensure the navigation items don't overlap with the theme toggle */
+.greedy-nav .visible-links {
+  margin-right: 4em;
 } 

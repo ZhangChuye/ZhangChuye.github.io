@@ -8,20 +8,15 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
-            {% if link.class == "theme-switch-nav" %}
-              <li class="masthead__menu-item">
-                <a href="#" id="theme-toggle" aria-label="Toggle Dark Mode">
-                  {{ link.title }}
-                </a>
-              </li>
-            {% else %}
-              <li class="masthead__menu-item">
-                <a href="{% if link.url contains 'http' %}{{ link.url }}{% else %}{{ link.url | prepend: base_path }}{% endif %}">{{ link.title }}</a>
-              </li>
-            {% endif %}
+            <li class="masthead__menu-item">
+              <a href="{% if link.url contains 'http' %}{{ link.url }}{% else %}{{ link.url | prepend: base_path }}{% endif %}">{{ link.title }}</a>
+            </li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle Dark Mode">
+          🌓
+        </button>
       </nav>
     </div>
   </div>
