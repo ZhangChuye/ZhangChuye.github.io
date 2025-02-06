@@ -73,7 +73,7 @@ Education Background
   </tr>
   <tr>
     <td><strong>Southern University of Science and Technology (SUSTech)</strong><br>
-    <em>Bachelor of Engineering in Robotics Engineering</em> | GPA: <strong>3.87/4.0</strong>, Rank: <strong>1/67</strong></td>
+    <em>Bachelor of Engineering in Robotics Engineering</em> | GPA: <strong>3.88/4.0</strong>, Rank: <strong>1/67</strong></td>
     <td class="right">Sep 2021 - Present</td>
   </tr>
   <tr>
