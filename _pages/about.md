@@ -29,7 +29,7 @@ redirect_from:
 <table class="education-table">
   <tr>
     <td>
-    I am a senior Robotics Engineering student at SUSTech advised by Professor Wei Zhang. I joined the <a href = "https://www.wzhanglab.site/" target="_blank" >CLEAR lab</a> at SUSTech in 2022 and will graduate with my Bachelor’s degree in June 2025.
+    I am a senior Robotics Engineering student at SUSTech advised by Professor Wei Zhang. I joined the <a href = "https://www.wzhanglab.site/" target="_blank" >CLEAR lab</a> at SUSTech in 2022 and will graduate with my Bachelor's degree in June 2025.
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@ redirect_from:
 <table class="education-table">
   <tr>
     <td>
-    Motivated by the challenges Alzheimer’s disease imposes on families, I believe intelligent robots could support those unable to care for themselves by handling real-world daily tasks—an area where current AI, despite advancements, remains limited in physical ability. To realize this vision, I aim to advance research on enhancing robots’ capabilities with AI-driven knowledge to perform complex, long-term, human-level tasks.
+    Motivated by the challenges Alzheimer's disease imposes on families, I believe intelligent robots could support those unable to care for themselves by handling real-world daily tasks—an area where current AI, despite advancements, remains limited in physical ability. To realize this vision, I aim to advance research on enhancing robots' capabilities with AI-driven knowledge to perform complex, long-term, human-level tasks.
     </td>
   </tr>
 </table>
@@ -116,7 +116,7 @@ Publications
         <iframe src="https://www.youtube.com/embed/U9_q6C5YIgo?si=054SCnYaK05N3f2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="video-description">
-        <h3>Don’t Yell at Your Robot: Physical Correction as the Collaborative Interface for Language Model Powered Robots</h3>
+        <h3>Don't Yell at Your Robot: Physical Correction as the Collaborative Interface for Language Model Powered Robots</h3>
         <a href="https://sites.google.com/sas.upenn.edu/dontyellatyourrobot/home" target="_blank">[website]</a>
         <p>
           <strong>Chuye Zhang</strong>*, Yifei Simon Shao*, Harshil Parekh, Junyao Shi, Pratik Chaudhari, Vijay Kumar, Nadia Figueroa <br>
@@ -240,7 +240,7 @@ Project Highlights
 
 <div class="image-text-wrapper">
     <div class="image-container">
-        <img src="images/ml.gif" alt="A description of the GIF or image">
+        <img src="images/ml_new.gif" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
         <h3> Machine Learning - Reproduction and Enhancement of RL_RVO</h3>
@@ -252,7 +252,7 @@ Project Highlights
 
 <div class="image-text-wrapper">
     <div class="image-container">
-        <img src="images/nav_and_grasp.gif" alt="A description of the GIF or image">
+        <img src="images/nav_and_grasp_new.gif" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
         <h3>ROS Mobile Robot System - Exploring, Mapping, Navigating, and Grasping</h3>
