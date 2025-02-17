@@ -226,15 +226,16 @@ Selected Awards
 Project Highlights
 ======
 
+
 <div class="image-text-wrapper">
     <div class="image-container">
-        <img src="images/sensor_r.gif" alt="A description of the GIF or image">
+        <img src="images/coll_car.gif" alt="A description of the GIF or image">
     </div>
     <div class="image-description">
-        <h3> Mechanical Product Digital Design Competition - Underwater Robot for Sensor Retrieval</h3>
+        <h3> Actuation System Project - Arduino-Based Collision Avoidance Small Car</h3>
         <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
-        <!-- <p class="post-description"> UPenn 24 Spring Machine Perception Course Project.</p> -->
-        <p class="post-description"> First Prize in Mechanical Product Digital Design Competition</p>
+        <p class="post-description"> SUSTech 2024 Fall Actuation System Course Project.</p>
+        <p class="post-description"> Course Grade: A</p>
     </div>
 </div>
 
@@ -336,3 +337,14 @@ Project Highlights
     </div>
 </div>
 
+<div class="image-text-wrapper">
+    <div class="image-container">
+        <img src="images/sensor_r.gif" alt="A description of the GIF or image">
+    </div>
+    <div class="image-description">
+        <h3> Mechanical Product Digital Design Competition - Underwater Robot for Sensor Retrieval</h3>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
+        <!-- <p class="post-description"> UPenn 24 Spring Machine Perception Course Project.</p> -->
+        <p class="post-description"> First Prize in Mechanical Product Digital Design Competition</p>
+    </div>
+</div>
