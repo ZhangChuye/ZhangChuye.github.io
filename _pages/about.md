@@ -66,7 +66,7 @@ Education Background
   <tr>
     <td><strong>University of Pennsylvania</strong><br>
     <em>International Guest Student</em> | GPA: <strong>4.0/4.0</strong></td>
-    <td class="right">Jan 2024 - Jul 2024</td>
+    <td class="right">Jan 2024-Jul 2024</td>
   </tr>
   <tr>
     <td><strong></strong><br>
@@ -76,7 +76,17 @@ Education Background
   <tr>
     <td><strong>Southern University of Science and Technology (SUSTech)</strong><br>
     <em>Bachelor of Engineering in Robotics Engineering</em> | GPA: <strong>3.88/4.0</strong>, Rank: <strong>1/67</strong></td>
-    <td class="right">Sep 2021 - Present</td>
+    <td class="right">Sep 2021-Jul 2025</td>
+  </tr>
+  <tr>
+    <td><strong></strong><br>
+    <em></em></td>
+    <td class="right"></td>
+  </tr>
+  <tr>
+    <td><strong>Georgia Institute of Technology</strong><br>
+    <em>Master of Science in Robotics</em> </td>
+    <td class="right">Aug 2025-Present</td>
   </tr>
   <tr>
     <td><strong></strong><br>
