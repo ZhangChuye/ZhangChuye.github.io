@@ -29,7 +29,7 @@ redirect_from:
 <table class="education-table">
   <tr>
     <td>
-    I am a senior Robotics Engineering student at SUSTech advised by Professor Wei Zhang. I joined the <a href = "https://www.wzhanglab.site/" target="_blank" >CLEAR lab</a> at SUSTech in 2022 and will graduate with my Bachelor's degree in June 2025.
+    I will start my M.S. in Robotics at Georgia Tech in Fall 2025. I earned my B.S. in Robotics Engineering from Southern University of Science and Technology (SUSTech) in July 2025, where I worked with Professor Wei Zhang in the <a href = "https://www.wzhanglab.site/" target="_blank" >CLEAR lab</a> since 2022.
     </td>
   </tr>
 </table>
@@ -37,7 +37,9 @@ redirect_from:
 <table class="education-table">
   <tr>
     <td>
-    Motivated by the challenges Alzheimer's disease imposes on families, I believe intelligent robots could support those unable to care for themselves by handling real-world daily tasks—an area where current AI, despite advancements, remains limited in physical ability. To realize this vision, I aim to advance research on enhancing robots' capabilities with AI-driven knowledge to perform complex, long-term, human-level tasks.
+    <!-- Motivated by the challenges Alzheimer's disease imposes on families, I believe intelligent robots could support those unable to care for themselves by handling real-world daily tasks—an area where current AI, despite advancements, remains limited in physical ability. To realize this vision, I aim to advance research on enhancing robots' capabilities with AI-driven knowledge to perform complex, long-term, human-level tasks. -->
+    <!-- I aim to develop intelligent robots that assist Alzheimer’s patients with daily tasks, thereby improving their quality of life. Despite recent progress, current robotic models still struggle with physical interaction in complex situations. My goal is to advance general-purpose robot control methods and interfaces to enable long-term, human-level assistance in both home and social settings. -->
+    My work focuses on creating intelligent robots that help Alzheimer’s patients with daily tasks, improving their quality of life. I’m especially interested in making robots better at handling physical interactions in complex situations, and in designing control methods and interfaces that allow them to assist people reliably over the long term.
     </td>
   </tr>
 </table>
@@ -111,6 +113,23 @@ Education Background
 Publications
 ======
 
+https://youtu.be/fGzu_huiuvE
+
+<div class="video-text-wrapper">
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/fGzu_huiuvE?si=2XVVGGzOkwiRv3aR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <div class="video-description">
+        <h3>Generative Visual Foresight Meets Task-Agnostic Pose Estimation in Robotic Table-top Manipulation</h3>
+        <a href="" target="_blank">[website]</a>
+        <p>
+          <strong>Chuye Zhang</strong>*, Xiaoxiong Zhang*, Linfang Zheng, Wei Pan, Wei Zhang <br>
+          <i>CoRL 2025</i>
+        </p>
+    </div>
+</div>
+
+
 <div class="video-text-wrapper">
     <div class="video-container">
         <iframe src="https://www.youtube.com/embed/U9_q6C5YIgo?si=054SCnYaK05N3f2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -146,7 +165,7 @@ Publications
         <h3>S2MAT: Simultaneous and Self-Reinforced Mapping and Tracking in Dynamic Urban Scenariosorcing Framework for Simultaneous Mapping and Tracking in Unbounded Urban Environments</h3>
         <a href="https://sites.google.com/view/smat-nav" target="_blank">[website]</a>
         <p>Tingxiang Fan*, Bowen Shen*, Yinqiang Zhang*, <strong>Chuye Zhang</strong>, Lei Yang, Hua Chen, Wei Zhang†, and Jia Pan† 
-        <br> <i>Journal of Field Robotics</i> (Under Review) </p>
+        <br> <i>Journal of Field Robotics</i>  </p>
     </div>
 </div>
 
@@ -190,6 +209,10 @@ Selected Awards
 ======
 
 <table class="honor-table">
+  <tr>
+    <td><i>Outstanding Undergraduate Thesis Award, SUSTech MEE Department</i></td>
+    <td class="right">2025</td>
+  </tr>
   <tr>
     <td><i>Outstanding Student Scholarship of 2022-2023 Academic Year, SUSTech</i></td>
     <td class="right">2023</td>
