@@ -29,28 +29,29 @@ redirect_from:
 <table class="education-table">
   <tr>
     <td>
-    I will start my M.S. in Robotics at Georgia Tech in Fall 2025. I earned my B.S. in Robotics Engineering from Southern University of Science and Technology (SUSTech) in July 2025, where I worked with Professor Wei Zhang in the <a href = "https://www.wzhanglab.site/" target="_blank" >CLEAR lab</a> since 2022.
+    <!-- I just started my M.S. in Robotics at Georgia Tech in Fall 2025. I earned my B.S. in Robotics Engineering from Southern University of Science and Technology (SUSTech) in July 2025, where I worked with Professor Wei Zhang in the <a href = "https://www.wzhanglab.site/" target="_blank" >CLEAR lab</a> since 2022. I'm interested in developing general-purpose robot control methods and interfaces to enable long-term, human-level assistance in both home and social settings. -->
+    I’m a first-year M.S. student in Robotics at Georgia Tech, starting in Fall 2025. I received my B.S. in Robotics Engineering from the Southern University of Science and Technology (SUSTech) in July 2025, where I worked with Professor Wei Zhang in the <a href = "https://www.wzhanglab.site/" target="_blank" >CLEAR lab</a> since 2022. My work focuses on developing general-purpose robot control methods and interfaces that help robots provide long-term, human-level assistance in everyday settings.
     </td>
   </tr>
 </table>
 
-<table class="education-table">
-  <tr>
-    <td>
+<!-- <table class="education-table"> -->
+  <!-- <tr> -->
+    <!-- <td> -->
     <!-- Motivated by the challenges Alzheimer's disease imposes on families, I believe intelligent robots could support those unable to care for themselves by handling real-world daily tasks—an area where current AI, despite advancements, remains limited in physical ability. To realize this vision, I aim to advance research on enhancing robots' capabilities with AI-driven knowledge to perform complex, long-term, human-level tasks. -->
     <!-- I aim to develop intelligent robots that assist Alzheimer’s patients with daily tasks, thereby improving their quality of life. Despite recent progress, current robotic models still struggle with physical interaction in complex situations. My goal is to advance general-purpose robot control methods and interfaces to enable long-term, human-level assistance in both home and social settings. -->
-    My work focuses on creating intelligent robots that help Alzheimer’s patients with daily tasks, improving their quality of life. I’m especially interested in making robots better at handling physical interactions in complex situations, and in designing control methods and interfaces that allow them to assist people reliably over the long term.
-    </td>
-  </tr>
-</table>
+    <!-- My work focuses on creating intelligent robots that help Alzheimer’s patients with daily tasks, improving their quality of life. I’m especially interested in making robots better at handling physical interactions in complex situations, and in designing control methods and interfaces that allow them to assist people reliably over the long term. -->
+    <!-- </td> -->
+  <!-- </tr> -->
+<!-- </table> -->
 
 
 <table class="education-table">
-  <tr>
+  <!-- <tr>
     <td><strong></strong><br>
     <em></em></td>
     <td class="right"></td>
-  </tr>
+  </tr> -->
   <tr>
     <td><strong></strong><br>
     <em></em></td>
@@ -63,6 +64,16 @@ Education Background
 
 
 <table class="education-table">
+  <tr>
+    <td><strong>Georgia Institute of Technology</strong><br>
+    <em>Master of Science in Robotics</em> </td>
+    <td class="right">Aug 2025-Present</td>
+  </tr>
+  <tr>
+    <td><strong></strong><br>
+    <em></em></td>
+    <td class="right"></td>
+  </tr>
   <tr>
     <td><strong>University of Pennsylvania</strong><br>
     <em>International Guest Student</em> | GPA: <strong>4.0/4.0</strong></td>
@@ -77,16 +88,6 @@ Education Background
     <td><strong>Southern University of Science and Technology (SUSTech)</strong><br>
     <em>Bachelor of Engineering in Robotics Engineering</em> | GPA: <strong>3.88/4.0</strong>, Rank: <strong>1/67</strong></td>
     <td class="right">Sep 2021-Jul 2025</td>
-  </tr>
-  <tr>
-    <td><strong></strong><br>
-    <em></em></td>
-    <td class="right"></td>
-  </tr>
-  <tr>
-    <td><strong>Georgia Institute of Technology</strong><br>
-    <em>Master of Science in Robotics</em> </td>
-    <td class="right">Aug 2025-Present</td>
   </tr>
   <tr>
     <td><strong></strong><br>
@@ -122,8 +123,6 @@ Education Background
 
 Publications
 ======
-
-https://youtu.be/fGzu_huiuvE
 
 <div class="video-text-wrapper">
     <div class="video-container">
