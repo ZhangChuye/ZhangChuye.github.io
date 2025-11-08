@@ -131,7 +131,7 @@ https://youtu.be/fGzu_huiuvE
     </div>
     <div class="video-description">
         <h3>Generative Visual Foresight Meets Task-Agnostic Pose Estimation in Robotic Table-top Manipulation</h3>
-        <a href="" target="_blank">[website]</a>
+        <a href="https://clearlab-sustech.github.io/gvf-tape/" target="_blank">[website]</a>
         <p>
           <strong>Chuye Zhang</strong>*, Xiaoxiong Zhang*, Linfang Zheng, Wei Pan, Wei Zhang <br>
           <i>CoRL 2025</i>
