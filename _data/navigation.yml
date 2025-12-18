@@ -22,6 +22,9 @@ main:
     
   - title: "CV"
     url: https://ZhangChuye.github.io/files/CV-Chuye_Zhang.pdf
+
+  - title: "Projects"
+    url: /projects/
     
   # - title: "Guide"
   #   url: /markdown/
