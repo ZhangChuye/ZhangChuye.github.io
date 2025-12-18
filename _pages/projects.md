@@ -15,7 +15,32 @@ author_profile: true
 <!-- <br> -->
 
 
+<div class="image-text-wrapper">
+    <div class="image-container">
+        <a href="/projects/cs8803-mci/">
+            <img src="/images/mci8803.gif" alt="CS8803 MCI Project">
+        </a>
+    </div>
+    <div class="image-description">
+        <h3><a href="/projects/cs8803-mci/">CS8803 MCI - Human Egocentric Manipulation Data Collection and Retrieval System</a></h3>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
+        <p class="post-description">Georgia Tech 2025 Fall CS8803 Course Project.</p>
+        <p class="post-description">Course Grade: A</p>
+    </div>
+</div>
 
+
+<div class="image-text-wrapper">
+    <div class="image-container">
+        <img src="/images/7785.gif" alt="A description of the GIF or image">
+    </div>
+    <div class="image-description">
+        <h3> CS7785 Final - Vision-based Sign Following</h3>
+        <!-- <a href="https://project-link.com" target="_blank">[website]</a> -->
+        <p class="post-description"> Georgia Tech 2025 Fall CS7785 Course Project.</p>
+        <p class="post-description"> Course Grade: A</p>
+    </div>
+</div>
 
 
 
