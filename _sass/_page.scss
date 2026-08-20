@@ -460,6 +460,14 @@
   display: block;
 }
 
+.video-container video {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  background: #000;
+}
+
 .video-description {
   width: 120%;
   flex-grow: 1;
@@ -564,4 +572,69 @@
 .image-description p {
   margin: 10px 0 0;
   color: #555;
+}
+
+/* Placeholder used for publications that don't have a video yet.
+   Matches .video-container's footprint so entries stay aligned.
+   Colors follow the dark-mode.css custom properties, with light-mode
+   fallbacks for the initial paint before the theme attribute is set. */
+.video-container.video-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5f5f5;
+  background-color: var(--code-background, #f5f5f5);
+  border: 1px dashed #e0e0e0;
+  border-color: var(--border-color, #e0e0e0);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.video-container.video-placeholder span {
+  color: #999;
+  opacity: 0.75;
+  font-size: 0.72em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+
+/* Stack publication entries vertically on small screens */
+@media (max-width: 700px) {
+  .video-text-wrapper {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .video-container {
+    width: 100%;
+  }
+  .video-description {
+    width: 100%;
+  }
+}
+
+/* Cursor magnifier for video panes (.zoom-wrap): circular lens following the cursor */
+.video-container.zoom-wrap {
+  position: relative;
+  cursor: zoom-in;
+}
+.zoom-lens {
+  position: absolute;
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 2px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+  pointer-events: none;
+  display: none;
+  z-index: 2;
+  background: #000;
+}
+.zoom-lens video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: none;
+  object-fit: cover;
 }
